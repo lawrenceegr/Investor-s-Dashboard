@@ -69,3 +69,10 @@
   body {
       background-color: #B0E0E6;
   }
+  
+  #side-bar {
+      display: table-cell;
+      width: 15%;
+      vertical-align: top;
+
+  }
